@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Víctor Zuluaga Teherán</string>
+    <string name="personal_data_title">DATOS DE CONTACTO</string>
+    <string name="mail">Correo Electrónico: tu@email.com</string>
+    <string name="phone">Teléfono: +1234567890</string>
+    <string name="web">Sitio Web: www.ejemplo.com</string>
+
+</resources>
